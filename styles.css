@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 100%;
-    border: 5px solid black;
+    border: 4px solid black;
 }
 
 header {
@@ -27,7 +27,7 @@ header {
     text-align: center;
     height: 6rem;
     padding: 20px;
-    border: 5px solid black;
+    border: 7px solid black;
 }
 
 nav {
@@ -79,6 +79,7 @@ footer {
     text-align: center;
     height: 6rem;
     padding: 10px;
+    border: 5px solid black;
 }
 
 .main-nav {
